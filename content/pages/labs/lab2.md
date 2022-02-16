@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: aa3bde14-8caf-d310-e93a-462206b540ae
 title: 'Image Gallery: Lab 2'
 uid: 1e6e9890-5931-e35b-0daa-156596c40ce6
 ---
 
 All images in this gallery are courtesy of OCW.
-{{< image-gallery id="1e6e9890-5931-e35b-0daa-156596c40ce6_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-110-sedimentary-geology-fall-2004/" >}}
+{{< image-gallery id="1e6e9890-5931-e35b-0daa-156596c40ce6_nanogallery2" baseUrl="/courses/12-110-sedimentary-geology-fall-2004/" >}}
 {{< image-gallery-item href="e6788026d83a4030e904faae698306b2_1.jpg" data-ngdesc="Chemically Weathered Surface of Basalt. Image courtesy of OCW." text="Chemically Weathered Surface of Basalt." >}}
 {{< image-gallery-item href="c51daa25c190638b5c14569e14a1bc60_2.jpg" data-ngdesc="Fossiliferous limestone bound together by fine grained carbonate cement where cement is weathering faster than fossils. Image courtesy of OCW." text="Fossiliferous limestone bound together by fine grained carbonate cement where cement is weathering faster than fossils." >}}
 {{< image-gallery-item href="0189f440865f817c92c0c2d8f7385bcf_3.jpg" data-ngdesc="Chemically weathered marble where weathering is preferentially occuring in cement. Image courtesy of OCW." text="Chemically weathered marble where weathering is preferentially occuring in cement." >}}

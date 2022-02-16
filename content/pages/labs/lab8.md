@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: aa3bde14-8caf-d310-e93a-462206b540ae
 title: 'Image Gallery: Lab 8'
 uid: 230dd682-1c86-a028-59fe-e2e125fc3b0a
 ---
 
 All images in this gallery are courtesy of OCW.
-{{< image-gallery id="230dd682-1c86-a028-59fe-e2e125fc3b0a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-110-sedimentary-geology-fall-2004/" >}}
+{{< image-gallery id="230dd682-1c86-a028-59fe-e2e125fc3b0a_nanogallery2" baseUrl="/courses/12-110-sedimentary-geology-fall-2004/" >}}
 {{< image-gallery-item href="87fc0fbb14e2af2dba89d781ddf3fe66_1.jpg" data-ngdesc="Teredo borings in miocene boundstone limestone. Image courtesy of OCW." text="Teredo borings in miocene boundstone limestone." >}}
 {{< image-gallery-item href="f2a86935ceb652d5625f1fa57057bdf1_2.jpg" data-ngdesc="Bryozoan Limestone. Image courtesy of OCW." text="Bryozoan Limestone." >}}
 {{< image-gallery-item href="fc5ae9631067b14cbc0bbe37237246f1_3.jpg" data-ngdesc="Shell Limestone with fine laminations suggesting low current velocities. Image courtesy of OCW." text="Shell Limestone with fine laminations suggesting low current velocities." >}}
