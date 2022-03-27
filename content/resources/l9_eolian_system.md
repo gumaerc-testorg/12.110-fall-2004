@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0bc83409-ce1b-cdad-e528-62c8707e49b6
 resourcetype: Document
 title: l9_eolian_system.pdf
 uid: 117b541e-3c58-2736-4110-ad3c2b7be112

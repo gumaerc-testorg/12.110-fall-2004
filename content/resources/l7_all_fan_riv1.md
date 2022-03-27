@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0bc83409-ce1b-cdad-e528-62c8707e49b6
 resourcetype: Document
 title: l7_all_fan_riv1.pdf
 uid: d76ab7ce-ea4d-faf3-4903-b5bda90ad7ce

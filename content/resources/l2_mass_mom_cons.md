@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0bc83409-ce1b-cdad-e528-62c8707e49b6
 resourcetype: Document
 title: l2_mass_mom_cons.pdf
 uid: acddeaf9-e5b8-ef9b-a460-b749a23a6a9b

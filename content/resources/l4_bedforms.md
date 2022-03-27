@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0bc83409-ce1b-cdad-e528-62c8707e49b6
 resourcetype: Document
 title: l4_bedforms.pdf
 uid: 409460e0-63f3-b38e-58bd-27ba70b71379
