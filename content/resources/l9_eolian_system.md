@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Eolian Systems.
-file: /media/courses/12-110-sedimentary-geology-fall-2004/117b541e3c5827364110ad3c2b7be112_l9_eolian_system.pdf
+file: /courses/12-110-sedimentary-geology-fall-2004/117b541e3c5827364110ad3c2b7be112_l9_eolian_system.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: l9_eolian_system.pdf
 uid: 117b541e-3c58-2736-4110-ad3c2b7be112
 ---
+Eolian Systems.
+

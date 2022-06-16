@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lecture notes for some lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Organizational Meeting ([PDF]({{< baseurl >}}/resources/intro_lecture))
+Organizational Meeting ({{% resource_link d7da9e7c-3575-0828-7e60-025effd53ad7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Organizational Meeting ([PDF]({{< baseurl >}}/resources/intro_lecture))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Sediment Production ([PDF]({{< baseurl >}}/resources/l1_sediment_prod))
+Sediment Production ({{% resource_link 65f2fa8c-1728-f8cc-b246-f238c7f2d500 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Sediment Production ([PDF]({{< baseurl >}}/resources/l1_sediment_prod))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Conservation of Mass and Momentum ([PDF - 2.2 MB]({{< baseurl >}}/resources/l2_mass_mom_cons))
+Conservation of Mass and Momentum ({{% resource_link acddeaf9-e5b8-ef9b-a460-b749a23a6a9b "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Sediment → Deposit → Rock
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Bedforms ([PDF]({{< baseurl >}}/resources/l4_bedforms))
+Bedforms ({{% resource_link 409460e0-63f3-b38e-58bd-27ba70b71379 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Sedimentary Structures
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Depositional Environments and Facies Models ([PDF]({{< baseurl >}}/resources/l6_strat_concept))
+Depositional Environments and Facies Models ({{% resource_link 42dc2ead-7269-6199-78d3-a71a738efd4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ Depositional Environments and Facies Models ([PDF]({{< baseurl >}}/resources/l6_
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Alluvial Fans ([PDF 1 of 2 - 1.5 MB]({{< baseurl >}}/resources/l7_all_fan_riv1)) ([PDF 2 of 2 - 2.6 MB]({{< baseurl >}}/resources/l7_all_fan_riv2))
+Alluvial Fans ({{% resource_link d76ab7ce-ea4d-faf3-4903-b5bda90ad7ce "PDF 1 of 2 - 1.5 MB" %}}) ({{% resource_link 82c31721-8692-ed8d-1a93-f27cc2444851 "PDF 2 of 2 - 2.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Deltas
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Eolian Systems ([PDF]({{< baseurl >}}/resources/l9_eolian_system))
+Eolian Systems ({{% resource_link 117b541e-3c58-2736-4110-ad3c2b7be112 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
