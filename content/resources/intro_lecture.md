@@ -5,6 +5,7 @@ file: /courses/12-110-sedimentary-geology-fall-2004/d7da9e7c357508287e60025effd5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: intro_lecture.pdf
 uid: d7da9e7c-3575-0828-7e60-025effd53ad7
 ---
 Introductory lecture.
-
