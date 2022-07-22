@@ -1,13 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: aa3bde14-8caf-d310-e93a-462206b540ae
 title: 'Image Gallery: Lab 3'
 uid: eeeac8a5-415d-8eed-507c-d5f2c39ee747
 ---
 
 All images in this gallery are courtesy of OCW.
-{{< image-gallery id="eeeac8a5-415d-8eed-507c-d5f2c39ee747_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-110-sedimentary-geology-fall-2004/" >}}
+{{< image-gallery id="eeeac8a5-415d-8eed-507c-d5f2c39ee747_nanogallery2" baseUrl="/courses/12-110-sedimentary-geology-fall-2004/" >}}
 {{< image-gallery-item href="4695d535e76a636b8820b6ef49b74222_1.jpg" data-ngdesc="Sandstone with oscillatory ripples produced in a wave dominated system. Image courtesy of OCW." text="Sandstone with oscillatory ripples produced in a wave dominated system." >}}
 {{< image-gallery-item href="b4c52d7802a1431886e8ead5899242ef_2.jpg" data-ngdesc="Quartz Arenite. Image courtesy of OCW." text="Quartz Arenite." >}}
 {{< image-gallery-item href="40501141bf3d9e5e37182f37480a005a_3.jpg" data-ngdesc="Quartz Arenite. Image courtesy of OCW." text="Quartz Arenite." >}}
