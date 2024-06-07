@@ -2,6 +2,7 @@
 content_type: resource
 description: Depositional Environments and Facies Models.
 file: /courses/12-110-sedimentary-geology-fall-2004/42dc2ead7269619978d3a71a738efd4d_l6_strat_concept.pdf
+file_size: 38707
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
