@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory lecture.
 file: /courses/12-110-sedimentary-geology-fall-2004/d7da9e7c357508287e60025effd53ad7_intro_lecture.pdf
+file_size: 33538
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
