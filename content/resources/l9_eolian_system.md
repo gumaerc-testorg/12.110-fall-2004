@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Eolian Systems.
-file: /courses/12-110-sedimentary-geology-fall-2004/117b541e3c5827364110ad3c2b7be112_l9_eolian_system.pdf
+file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-fall-2004/117b541e3c5827364110ad3c2b7be112_l9_eolian_system.pdf
 file_size: 713099
 file_type: application/pdf
 learning_resource_types:
