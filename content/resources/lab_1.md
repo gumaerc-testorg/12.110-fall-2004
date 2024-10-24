@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sediment Transport, Bedforms and Production of Stratification
-file: /courses/12-110-sedimentary-geology-fall-2004/eee6bc97e4b87c01303f724641cdb500_lab_1.pdf
+file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-fall-2004/eee6bc97e4b87c01303f724641cdb500_lab_1.pdf
 file_size: 64736
 file_type: application/pdf
 learning_resource_types:
