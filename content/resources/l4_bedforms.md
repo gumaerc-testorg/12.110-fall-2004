@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bedforms.
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-fall-2004/409460e063f3b38e58bd27ba70b71379_l4_bedforms.pdf
+file: /courses/12-110-sedimentary-geology-fall-2004/409460e063f3b38e58bd27ba70b71379_l4_bedforms.pdf
 file_size: 795005
 file_type: application/pdf
 learning_resource_types:
