@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Alluvial Fans.
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-fall-2004/82c317218692ed8d1a93f27cc2444851_l7_all_fan_riv2.pdf
+file: /courses/12-110-sedimentary-geology-fall-2004/82c317218692ed8d1a93f27cc2444851_l7_all_fan_riv2.pdf
 file_size: 2805095
 file_type: application/pdf
 learning_resource_types:

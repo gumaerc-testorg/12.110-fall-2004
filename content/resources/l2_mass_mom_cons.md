@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Modes of Sediment Transport.
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-fall-2004/acddeaf9e5b8ef9ba460b749a23a6a9b_l2_mass_mom_cons.pdf
+file: /courses/12-110-sedimentary-geology-fall-2004/acddeaf9e5b8ef9ba460b749a23a6a9b_l2_mass_mom_cons.pdf
 file_size: 2355790
 file_type: application/pdf
 learning_resource_types:
