@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-fall-2004/3c735fd877550b2e4401385823e21e6c_l7_all_fan_river.pdf
+file: /courses/12-110-sedimentary-geology-fall-2004/3c735fd877550b2e4401385823e21e6c_l7_all_fan_river.pdf
 file_size: 4270140
 file_type: application/pdf
 learning_resource_types:
