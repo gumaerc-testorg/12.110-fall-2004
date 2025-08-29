@@ -3,7 +3,7 @@ content_type: page
 description: This section gives information of different labs and provides photos
   of rock samples for some labs.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: aa3bde14-8caf-d310-e93a-462206b540ae
